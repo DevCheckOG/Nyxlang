@@ -57,10 +57,3 @@ nyx --help
 - **Enhance the velocity.**
 
 --------
-
-## Developers
-
-**Actively developers working in this project:**
-
-**Kevin Benavides (DevCheckOG).** 
-**Contributions in:** https://paypal.me/DevCheck
